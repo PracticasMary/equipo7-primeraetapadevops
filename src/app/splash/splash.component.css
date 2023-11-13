@@ -1,0 +1,17 @@
+.splash {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f3f3e0;
+  }
+  
+  img {
+    width: 150px;
+    height: 150px;
+  }
+  
+  p {
+    margin-top: 20px;
+  }
