@@ -13,6 +13,6 @@ export class SplashComponent implements OnInit {
   ngOnInit() {
     setTimeout(() => {
       this.router.navigate(['/home']); // Redirige a la página principal después de 3 segundos
-    }, 3000);
+    }, 4000);
   }
 }
